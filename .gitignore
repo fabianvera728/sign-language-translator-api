@@ -1,0 +1,15 @@
+# .gitignore for FastAPI project
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+/__pycache__/
+
+# Other files to ignore
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
